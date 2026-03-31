@@ -1,5 +1,4 @@
 ## Olá, Eu sou o Kauê Pereira
-Olá, eu sou o Kauê Pereira
 Desenvolvedor de Software em formação, com foco em backend e desenvolvimento de APIs REST.
 
 Atuo com Java e estou expandindo minhas habilidades em Python, sempre aplicando boas práticas e buscando evolução contínua através de projetos práticos.
