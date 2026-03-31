@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Kauê Pereira
-Desenvolvedor Java em formação, com foco em backend e no desenvolvimento de APIs REST.  
-Busco aplicar boas práticas de programação e evoluir continuamente por meio de projetos práticos. <br>
+Olá, eu sou o Kauê Pereira
+Desenvolvedor de Software em formação, com foco em backend e desenvolvimento de APIs REST.
 
-Atualmente estudando: Java, Spring Boot e bancos de dados.
+Atuo com Java e estou expandindo minhas habilidades em Python, sempre aplicando boas práticas e buscando evolução contínua através de projetos práticos.
 
 ##
 ### Conecte-se comigo
@@ -18,4 +18,6 @@ Atualmente estudando: Java, Spring Boot e bancos de dados.
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Python" height="40" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
